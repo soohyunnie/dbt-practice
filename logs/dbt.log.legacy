@@ -73,3 +73,85 @@
 2022-06-17 20:31:38.645484 (Thread-17): handling status request
 2022-06-17 20:31:38.647043 (Thread-17): 20:31:38  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '4a9c1140-ff74-4ec8-b038-3ca633d27def', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f26e5f26fd0>]}
 2022-06-17 20:31:38.647942 (Thread-17): sending response (<Response 15785 bytes [200 OK]>) to 10.0.30.108
+2022-06-17 22:51:36.857870 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-17 22:53:48.870896 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-17 22:54:17.955417 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-17 22:55:15.055027 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-17 22:56:43.058248 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-17 23:09:07.054365 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-17 23:11:02.729491 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-17 23:12:03.307208 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-17 23:15:02.352350 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-17 23:15:47.479233 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-17 23:16:53.916358 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-23 19:56:56.073609 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-23 19:57:05.360764 (Thread-1): unclosed <ssl.SSLSocket fd=2968, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12171), raddr=('172.217.165.138', 443)>
+2022-06-23 19:57:05.362765 (Thread-1): unclosed <ssl.SSLSocket fd=2960, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12172), raddr=('142.250.72.106', 443)>
+2022-06-23 19:57:08.700576 (Thread-1): unclosed <ssl.SSLSocket fd=3036, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12176), raddr=('172.217.165.138', 443)>
+2022-06-23 19:57:08.701576 (Thread-1): unclosed <ssl.SSLSocket fd=3040, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12177), raddr=('142.250.72.106', 443)>
+2022-06-23 20:01:07.905715 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-23 20:01:16.229539 (Thread-1): unclosed <ssl.SSLSocket fd=2732, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12344), raddr=('142.250.65.170', 443)>
+2022-06-23 20:01:16.230538 (Thread-1): unclosed <ssl.SSLSocket fd=2744, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12345), raddr=('142.250.72.106', 443)>
+2022-06-23 20:01:17.234727 (Thread-1): unclosed <ssl.SSLSocket fd=2848, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12346), raddr=('142.250.65.170', 443)>
+2022-06-23 20:01:17.235732 (Thread-1): unclosed <ssl.SSLSocket fd=2856, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12347), raddr=('142.250.72.106', 443)>
+2022-06-23 20:01:18.292209 (MainThread): unclosed <ssl.SSLSocket fd=2880, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12348), raddr=('142.250.65.170', 443)>
+2022-06-23 20:01:18.293210 (MainThread): unclosed <ssl.SSLSocket fd=2900, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12349), raddr=('142.250.72.106', 443)>
+2022-06-23 20:01:44.597471 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-23 20:01:50.378064 (Thread-1): unclosed <ssl.SSLSocket fd=2696, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12358), raddr=('142.250.65.170', 443)>
+2022-06-23 20:01:50.380066 (Thread-1): unclosed <ssl.SSLSocket fd=2716, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12359), raddr=('142.250.72.106', 443)>
+2022-06-23 20:01:53.883939 (Thread-1): unclosed <ssl.SSLSocket fd=2792, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12360), raddr=('142.250.65.170', 443)>
+2022-06-23 20:01:53.884940 (Thread-1): unclosed <ssl.SSLSocket fd=2804, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12361), raddr=('142.250.72.106', 443)>
+2022-06-23 20:01:53.885942 (Thread-1): unclosed <ssl.SSLSocket fd=2852, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12362), raddr=('142.250.65.170', 443)>
+2022-06-23 20:01:53.886938 (Thread-1): unclosed <ssl.SSLSocket fd=2848, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12363), raddr=('142.250.72.106', 443)>
+2022-06-23 20:01:53.887943 (Thread-1): unclosed <ssl.SSLSocket fd=2908, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12364), raddr=('142.250.65.170', 443)>
+2022-06-23 20:01:53.888941 (Thread-1): unclosed <ssl.SSLSocket fd=2872, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12365), raddr=('142.250.72.106', 443)>
+2022-06-23 20:02:28.002610 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-23 20:02:33.930468 (Thread-1): unclosed <ssl.SSLSocket fd=2648, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12384), raddr=('142.250.65.170', 443)>
+2022-06-23 20:02:33.931469 (Thread-1): unclosed <ssl.SSLSocket fd=2276, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12385), raddr=('142.250.65.234', 443)>
+2022-06-23 20:02:35.771257 (Thread-1): unclosed <ssl.SSLSocket fd=2884, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12390), raddr=('142.250.65.170', 443)>
+2022-06-23 20:02:35.773257 (Thread-1): unclosed <ssl.SSLSocket fd=2888, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12391), raddr=('142.250.65.234', 443)>
+2022-06-23 20:02:36.791229 (Thread-1): unclosed <ssl.SSLSocket fd=2840, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12388), raddr=('142.250.65.170', 443)>
+2022-06-23 20:02:36.792229 (Thread-1): unclosed <ssl.SSLSocket fd=2856, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12389), raddr=('142.250.65.234', 443)>
+2022-06-23 20:02:36.793230 (Thread-1): unclosed <ssl.SSLSocket fd=2944, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12392), raddr=('142.250.65.170', 443)>
+2022-06-23 20:02:36.793230 (Thread-1): unclosed <ssl.SSLSocket fd=2948, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12393), raddr=('142.250.65.234', 443)>
+2022-06-23 20:03:27.930953 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-23 20:03:33.689442 (Thread-1): unclosed <ssl.SSLSocket fd=628, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12418), raddr=('142.250.65.170', 443)>
+2022-06-23 20:03:33.690441 (Thread-1): unclosed <ssl.SSLSocket fd=2640, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12419), raddr=('142.250.65.234', 443)>
+2022-06-23 20:03:36.024310 (Thread-1): unclosed <ssl.SSLSocket fd=2936, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12423), raddr=('142.250.65.170', 443)>
+2022-06-23 20:03:36.025309 (Thread-1): unclosed <ssl.SSLSocket fd=2720, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12424), raddr=('142.250.65.234', 443)>
+2022-06-23 20:03:36.898664 (Thread-1): unclosed <ssl.SSLSocket fd=2624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12421), raddr=('142.250.65.170', 443)>
+2022-06-23 20:03:36.899665 (Thread-1): unclosed <ssl.SSLSocket fd=2696, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12422), raddr=('142.250.65.234', 443)>
+2022-06-23 20:03:36.900662 (Thread-1): unclosed <ssl.SSLSocket fd=2968, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12426), raddr=('142.250.65.170', 443)>
+2022-06-23 20:03:36.900662 (Thread-1): unclosed <ssl.SSLSocket fd=1712, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12427), raddr=('142.250.65.234', 443)>
+2022-06-23 20:03:40.282882 (MainThread): unclosed <ssl.SSLSocket fd=2996, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12428), raddr=('142.250.65.170', 443)>
+2022-06-23 20:03:40.284884 (MainThread): unclosed <ssl.SSLSocket fd=3000, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 12429), raddr=('142.250.65.234', 443)>
+2022-06-23 20:09:47.457647 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-23 20:36:35.175204 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-23 20:36:42.179208 (Thread-1): unclosed <ssl.SSLSocket fd=2784, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13032), raddr=('142.251.40.138', 443)>
+2022-06-23 20:36:42.181193 (Thread-1): unclosed <ssl.SSLSocket fd=2748, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13033), raddr=('142.250.80.74', 443)>
+2022-06-23 20:37:53.929346 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-23 20:37:59.707471 (Thread-1): unclosed <ssl.SSLSocket fd=2760, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13059), raddr=('142.251.40.138', 443)>
+2022-06-23 20:37:59.708472 (Thread-1): unclosed <ssl.SSLSocket fd=2772, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13060), raddr=('142.250.80.74', 443)>
+2022-06-23 21:05:24.711793 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-23 21:05:29.043406 (Thread-1): unclosed <ssl.SSLSocket fd=2672, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13271), raddr=('142.251.40.170', 443)>
+2022-06-23 21:05:29.044407 (Thread-1): unclosed <ssl.SSLSocket fd=2816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13272), raddr=('142.250.65.202', 443)>
+2022-06-23 21:05:30.152429 (Thread-1): unclosed <ssl.SSLSocket fd=2856, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13273), raddr=('142.251.40.170', 443)>
+2022-06-23 21:05:30.153428 (Thread-1): unclosed <ssl.SSLSocket fd=2876, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13274), raddr=('142.250.65.202', 443)>
+2022-06-23 21:05:31.140262 (Thread-1): unclosed <ssl.SSLSocket fd=2836, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13275), raddr=('142.251.40.170', 443)>
+2022-06-23 21:05:31.141264 (Thread-1): unclosed <ssl.SSLSocket fd=2884, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13276), raddr=('142.250.65.202', 443)>
+2022-06-23 21:06:12.370786 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-23 21:06:16.770526 (Thread-1): unclosed <ssl.SSLSocket fd=2764, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13289), raddr=('142.251.40.170', 443)>
+2022-06-23 21:06:16.771524 (Thread-1): unclosed <ssl.SSLSocket fd=2768, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13290), raddr=('142.250.65.202', 443)>
+2022-06-23 21:06:17.968306 (Thread-1): unclosed <ssl.SSLSocket fd=2736, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13294), raddr=('142.251.40.170', 443)>
+2022-06-23 21:06:17.968306 (Thread-1): unclosed <ssl.SSLSocket fd=2828, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13295), raddr=('142.250.65.202', 443)>
+2022-06-23 21:06:21.268240 (MainThread): unclosed <ssl.SSLSocket fd=2712, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13296), raddr=('142.251.40.170', 443)>
+2022-06-23 21:06:21.269241 (MainThread): unclosed <ssl.SSLSocket fd=2872, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13297), raddr=('142.250.65.202', 443)>
+2022-06-23 21:06:56.681126 (MainThread): the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+2022-06-23 21:07:00.787126 (Thread-1): unclosed <ssl.SSLSocket fd=2764, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13311), raddr=('142.251.40.170', 443)>
+2022-06-23 21:07:00.788127 (Thread-1): unclosed <ssl.SSLSocket fd=2776, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13312), raddr=('142.250.65.202', 443)>
+2022-06-23 21:07:02.003682 (Thread-1): unclosed <ssl.SSLSocket fd=2800, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13313), raddr=('142.251.40.170', 443)>
+2022-06-23 21:07:02.004684 (Thread-1): unclosed <ssl.SSLSocket fd=2816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13314), raddr=('142.250.65.202', 443)>
+2022-06-23 21:07:06.109704 (Thread-1): unclosed <ssl.SSLSocket fd=2800, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13315), raddr=('142.251.40.170', 443)>
+2022-06-23 21:07:06.110704 (Thread-1): unclosed <ssl.SSLSocket fd=2712, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13316), raddr=('142.250.65.202', 443)>
+2022-06-23 21:07:06.111704 (Thread-1): unclosed <ssl.SSLSocket fd=2840, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13317), raddr=('142.251.40.170', 443)>
+2022-06-23 21:07:06.111704 (Thread-1): unclosed <ssl.SSLSocket fd=2784, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.0.0.218', 13318), raddr=('142.250.65.202', 443)>
